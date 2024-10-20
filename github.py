@@ -13,3 +13,13 @@
 #       3. Code the new feature and test locally
 #       4. Commit and Push your code to your remote branch
 #       5. Creat a Pull Request in order for your changes to be merged back into develop branch
+#       6. After approval from team members/Lead your code is promoted to develop branch
+#       7. Automatically the new develop branch code shall be deployed to Development environment
+#       8. The developer(s) will test the application for integrity and correctness
+#       9. If everyone is satisfied the code is promoted to Test Environemt
+#       10. Testers will test the application in the test environment (Integration Testing/ End to End Testing)
+#       11. If bugs/defects are created then developer shall create a new branch under "bugfix" prefix (1-10 would repeat)
+#       12. A release (branch) is created and deployed to staging
+#       13. Fine tuning and performance testing happens
+#       14. If any issue is found (1-13 would repeat)
+#       15. Release (branch) is promoted to production then merged to main (branch)
